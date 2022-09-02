@@ -1,1 +1,1 @@
-Task 0. My name is Betty
+prints the effective username of the current user
